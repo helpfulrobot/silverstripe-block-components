@@ -1,0 +1,18 @@
+{
+	"name": "salted-herring/silverstripe-block",
+	"description": "Addon to SaltedHerring's Silverstripe Block",
+	"type": "silverstripe-module",
+	"homepage": "https://github.com/salted-herring/silverstripe-block-components",
+	"license": "MIT",
+	"keywords": ["silverstripe", "block", "block component"],
+	"authors": [
+		{
+			"name": "Salted Herring",
+			"homepage": "http://saltedherring.com"
+		}
+	],
+	"require": {
+		"salted-herring/salted-library": "*",
+		"salted-herring/silverstripe-block": "*"
+	}
+}

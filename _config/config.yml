@@ -1,0 +1,7 @@
+---
+Name: blockcomponent
+After: 'framework/*','cms/*','silverstripe-block/*'
+---
+Block:
+  extensions:
+    - BlockComponentExt
