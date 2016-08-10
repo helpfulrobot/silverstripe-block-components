@@ -1,5 +1,5 @@
 {
-	"name": "salted-herring/silverstripe-block",
+	"name": "salted-herring/silverstripe-block-components",
 	"description": "Addon to SaltedHerring's Silverstripe Block",
 	"type": "silverstripe-module",
 	"homepage": "https://github.com/salted-herring/silverstripe-block-components",
